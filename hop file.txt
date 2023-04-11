@@ -1,0 +1,5 @@
+
+rm -rf file
+git clone https://github.com/hop09/file
+cd file
+python file.py
